@@ -6,7 +6,6 @@ import org.example.repository.PersonaRepository;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         try {
             var connection = MysqlConfig.getConnection();
             System.out.println("Connection established!");
