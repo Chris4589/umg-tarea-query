@@ -1,4 +1,7 @@
-Conexión con JDBC a MySQL
+Conexión con JDBC a MySQL 
+Tareas: Tarea
+Consulta mariadb (SELECT)
+ABC java mariadb (CRUD)
 
 INSERT
 ![image](https://github.com/user-attachments/assets/4e6cdc91-1ec8-4538-9ee9-cce30e0c8d52)
